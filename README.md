@@ -2,6 +2,8 @@
 
 A minimal **Qt Quick** application showcasing real-time weather transitions for three cities—Moscow, Ankara, and Madrid. This project emphasizes dynamic color, gradient, and animation changes, illustrating how QML can create visually appealing user interfaces.
 
+![Demo GIF](assets/weatherWidgetGIF.gif)
+
 ---
 
 ## Features
